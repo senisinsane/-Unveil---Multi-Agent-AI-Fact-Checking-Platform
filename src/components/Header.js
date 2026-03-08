@@ -6,8 +6,8 @@ export default function Header({ stats, status }) {
       <div className="header__brand">
         <div className="header__logo">👁️</div>
         <div>
-          <div className="header__title">Unveil</div>
-          <div className="header__subtitle">Decentralized AI · Fact-Checking Swarm</div>
+          <h1 className="header__title">Unveil</h1>
+          <div className="header__subtitle">Multi-Agent AI · Fact-Checking Swarm</div>
         </div>
       </div>
       <div className="header__network">

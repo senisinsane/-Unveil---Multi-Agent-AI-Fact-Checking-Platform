@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+
+# Exclude API routes from crawling
+Disallow: /api/
+
+Sitemap: https://unveil.example.com/sitemap.xml
